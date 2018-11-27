@@ -58,7 +58,7 @@
     />
   </div>
 </template>
-<script type="text/babel">
+<script>
   import Vue from 'vue'
   import Thumbnail from './components/aplayer-thumbnail.vue'
   import MusicList from './components/aplayer-list.vue'
